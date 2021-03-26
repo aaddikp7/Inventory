@@ -1,0 +1,36 @@
+F:\Project\Inventory\BooksAuthor.Entity\bin\Debug\netcoreapp3.1\Inventory.Entity.deps.json
+F:\Project\Inventory\BooksAuthor.Entity\bin\Debug\netcoreapp3.1\Inventory.Entity.runtimeconfig.json
+F:\Project\Inventory\BooksAuthor.Entity\bin\Debug\netcoreapp3.1\Inventory.Entity.runtimeconfig.dev.json
+F:\Project\Inventory\BooksAuthor.Entity\bin\Debug\netcoreapp3.1\Inventory.Entity.dll
+F:\Project\Inventory\BooksAuthor.Entity\bin\Debug\netcoreapp3.1\Inventory.Entity.pdb
+F:\Project\Inventory\BooksAuthor.Entity\obj\Debug\netcoreapp3.1\Inventory.Entity.csprojAssemblyReference.cache
+F:\Project\Inventory\BooksAuthor.Entity\obj\Debug\netcoreapp3.1\Inventory.Entity.AssemblyInfoInputs.cache
+F:\Project\Inventory\BooksAuthor.Entity\obj\Debug\netcoreapp3.1\Inventory.Entity.AssemblyInfo.cs
+F:\Project\Inventory\BooksAuthor.Entity\obj\Debug\netcoreapp3.1\Inventory.Entity.csproj.CoreCompileInputs.cache
+F:\Project\Inventory\BooksAuthor.Entity\obj\Debug\netcoreapp3.1\Inventory.Entity.dll
+F:\Project\Inventory\BooksAuthor.Entity\obj\Debug\netcoreapp3.1\Inventory.Entity.pdb
+F:\Project\Inventory\BooksAuthor.Entity\obj\Debug\netcoreapp3.1\Inventory.Entity.genruntimeconfig.cache
+F:\Project\Inventory 1\Inventory.Entity\bin\Debug\netcoreapp3.1\Inventory.Entity.deps.json
+F:\Project\Inventory 1\Inventory.Entity\bin\Debug\netcoreapp3.1\Inventory.Entity.runtimeconfig.json
+F:\Project\Inventory 1\Inventory.Entity\bin\Debug\netcoreapp3.1\Inventory.Entity.runtimeconfig.dev.json
+F:\Project\Inventory 1\Inventory.Entity\bin\Debug\netcoreapp3.1\Inventory.Entity.dll
+F:\Project\Inventory 1\Inventory.Entity\bin\Debug\netcoreapp3.1\Inventory.Entity.pdb
+F:\Project\Inventory 1\Inventory.Entity\obj\Debug\netcoreapp3.1\Inventory.Entity.csprojAssemblyReference.cache
+F:\Project\Inventory 1\Inventory.Entity\obj\Debug\netcoreapp3.1\Inventory.Entity.AssemblyInfoInputs.cache
+F:\Project\Inventory 1\Inventory.Entity\obj\Debug\netcoreapp3.1\Inventory.Entity.AssemblyInfo.cs
+F:\Project\Inventory 1\Inventory.Entity\obj\Debug\netcoreapp3.1\Inventory.Entity.csproj.CoreCompileInputs.cache
+F:\Project\Inventory 1\Inventory.Entity\obj\Debug\netcoreapp3.1\Inventory.Entity.dll
+F:\Project\Inventory 1\Inventory.Entity\obj\Debug\netcoreapp3.1\Inventory.Entity.pdb
+F:\Project\Inventory 1\Inventory.Entity\obj\Debug\netcoreapp3.1\Inventory.Entity.genruntimeconfig.cache
+F:\Project\Inventory\Inventory.Entity\bin\Debug\netcoreapp3.1\Inventory.Entity.deps.json
+F:\Project\Inventory\Inventory.Entity\bin\Debug\netcoreapp3.1\Inventory.Entity.runtimeconfig.json
+F:\Project\Inventory\Inventory.Entity\bin\Debug\netcoreapp3.1\Inventory.Entity.runtimeconfig.dev.json
+F:\Project\Inventory\Inventory.Entity\bin\Debug\netcoreapp3.1\Inventory.Entity.dll
+F:\Project\Inventory\Inventory.Entity\bin\Debug\netcoreapp3.1\Inventory.Entity.pdb
+F:\Project\Inventory\Inventory.Entity\obj\Debug\netcoreapp3.1\Inventory.Entity.csprojAssemblyReference.cache
+F:\Project\Inventory\Inventory.Entity\obj\Debug\netcoreapp3.1\Inventory.Entity.AssemblyInfoInputs.cache
+F:\Project\Inventory\Inventory.Entity\obj\Debug\netcoreapp3.1\Inventory.Entity.AssemblyInfo.cs
+F:\Project\Inventory\Inventory.Entity\obj\Debug\netcoreapp3.1\Inventory.Entity.csproj.CoreCompileInputs.cache
+F:\Project\Inventory\Inventory.Entity\obj\Debug\netcoreapp3.1\Inventory.Entity.dll
+F:\Project\Inventory\Inventory.Entity\obj\Debug\netcoreapp3.1\Inventory.Entity.pdb
+F:\Project\Inventory\Inventory.Entity\obj\Debug\netcoreapp3.1\Inventory.Entity.genruntimeconfig.cache

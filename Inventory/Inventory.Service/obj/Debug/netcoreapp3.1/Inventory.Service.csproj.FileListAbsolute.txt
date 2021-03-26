@@ -1,0 +1,42 @@
+F:\Project\Inventory\BooksAuthor.Service\bin\Debug\netcoreapp3.1\Inventory.Service.deps.json
+F:\Project\Inventory\BooksAuthor.Service\bin\Debug\netcoreapp3.1\Inventory.Service.dll
+F:\Project\Inventory\BooksAuthor.Service\bin\Debug\netcoreapp3.1\Inventory.Service.pdb
+F:\Project\Inventory\BooksAuthor.Service\bin\Debug\netcoreapp3.1\Inventory.Entity.dll
+F:\Project\Inventory\BooksAuthor.Service\bin\Debug\netcoreapp3.1\Inventory.ViewModel.dll
+F:\Project\Inventory\BooksAuthor.Service\bin\Debug\netcoreapp3.1\Inventory.Entity.pdb
+F:\Project\Inventory\BooksAuthor.Service\bin\Debug\netcoreapp3.1\Inventory.ViewModel.pdb
+F:\Project\Inventory\BooksAuthor.Service\obj\Debug\netcoreapp3.1\Inventory.Service.csprojAssemblyReference.cache
+F:\Project\Inventory\BooksAuthor.Service\obj\Debug\netcoreapp3.1\Inventory.Service.AssemblyInfoInputs.cache
+F:\Project\Inventory\BooksAuthor.Service\obj\Debug\netcoreapp3.1\Inventory.Service.AssemblyInfo.cs
+F:\Project\Inventory\BooksAuthor.Service\obj\Debug\netcoreapp3.1\Inventory.Service.csproj.CoreCompileInputs.cache
+F:\Project\Inventory\BooksAuthor.Service\obj\Debug\netcoreapp3.1\Inventory.Service.csproj.CopyComplete
+F:\Project\Inventory\BooksAuthor.Service\obj\Debug\netcoreapp3.1\Inventory.Service.dll
+F:\Project\Inventory\BooksAuthor.Service\obj\Debug\netcoreapp3.1\Inventory.Service.pdb
+F:\Project\Inventory 1\Inventory.Service\bin\Debug\netcoreapp3.1\Inventory.Service.deps.json
+F:\Project\Inventory 1\Inventory.Service\bin\Debug\netcoreapp3.1\Inventory.Service.dll
+F:\Project\Inventory 1\Inventory.Service\bin\Debug\netcoreapp3.1\Inventory.Service.pdb
+F:\Project\Inventory 1\Inventory.Service\bin\Debug\netcoreapp3.1\Inventory.Entity.dll
+F:\Project\Inventory 1\Inventory.Service\bin\Debug\netcoreapp3.1\Inventory.ViewModel.dll
+F:\Project\Inventory 1\Inventory.Service\bin\Debug\netcoreapp3.1\Inventory.Entity.pdb
+F:\Project\Inventory 1\Inventory.Service\bin\Debug\netcoreapp3.1\Inventory.ViewModel.pdb
+F:\Project\Inventory 1\Inventory.Service\obj\Debug\netcoreapp3.1\Inventory.Service.csprojAssemblyReference.cache
+F:\Project\Inventory 1\Inventory.Service\obj\Debug\netcoreapp3.1\Inventory.Service.AssemblyInfoInputs.cache
+F:\Project\Inventory 1\Inventory.Service\obj\Debug\netcoreapp3.1\Inventory.Service.AssemblyInfo.cs
+F:\Project\Inventory 1\Inventory.Service\obj\Debug\netcoreapp3.1\Inventory.Service.csproj.CoreCompileInputs.cache
+F:\Project\Inventory 1\Inventory.Service\obj\Debug\netcoreapp3.1\Inventory.Service.csproj.CopyComplete
+F:\Project\Inventory 1\Inventory.Service\obj\Debug\netcoreapp3.1\Inventory.Service.dll
+F:\Project\Inventory 1\Inventory.Service\obj\Debug\netcoreapp3.1\Inventory.Service.pdb
+F:\Project\Inventory\Inventory.Service\bin\Debug\netcoreapp3.1\Inventory.Service.deps.json
+F:\Project\Inventory\Inventory.Service\bin\Debug\netcoreapp3.1\Inventory.Service.dll
+F:\Project\Inventory\Inventory.Service\bin\Debug\netcoreapp3.1\Inventory.Service.pdb
+F:\Project\Inventory\Inventory.Service\bin\Debug\netcoreapp3.1\Inventory.Entity.dll
+F:\Project\Inventory\Inventory.Service\bin\Debug\netcoreapp3.1\Inventory.ViewModel.dll
+F:\Project\Inventory\Inventory.Service\bin\Debug\netcoreapp3.1\Inventory.Entity.pdb
+F:\Project\Inventory\Inventory.Service\bin\Debug\netcoreapp3.1\Inventory.ViewModel.pdb
+F:\Project\Inventory\Inventory.Service\obj\Debug\netcoreapp3.1\Inventory.Service.csprojAssemblyReference.cache
+F:\Project\Inventory\Inventory.Service\obj\Debug\netcoreapp3.1\Inventory.Service.AssemblyInfoInputs.cache
+F:\Project\Inventory\Inventory.Service\obj\Debug\netcoreapp3.1\Inventory.Service.AssemblyInfo.cs
+F:\Project\Inventory\Inventory.Service\obj\Debug\netcoreapp3.1\Inventory.Service.csproj.CoreCompileInputs.cache
+F:\Project\Inventory\Inventory.Service\obj\Debug\netcoreapp3.1\Inventory.Service.csproj.CopyComplete
+F:\Project\Inventory\Inventory.Service\obj\Debug\netcoreapp3.1\Inventory.Service.dll
+F:\Project\Inventory\Inventory.Service\obj\Debug\netcoreapp3.1\Inventory.Service.pdb

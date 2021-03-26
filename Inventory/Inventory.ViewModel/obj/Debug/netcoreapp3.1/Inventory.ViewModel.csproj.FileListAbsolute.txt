@@ -1,0 +1,27 @@
+F:\Project\Inventory\BooksAuthor.ViewModel\bin\Debug\netcoreapp3.1\Inventory.ViewModel.deps.json
+F:\Project\Inventory\BooksAuthor.ViewModel\bin\Debug\netcoreapp3.1\Inventory.ViewModel.dll
+F:\Project\Inventory\BooksAuthor.ViewModel\bin\Debug\netcoreapp3.1\Inventory.ViewModel.pdb
+F:\Project\Inventory\BooksAuthor.ViewModel\obj\Debug\netcoreapp3.1\Inventory.ViewModel.csprojAssemblyReference.cache
+F:\Project\Inventory\BooksAuthor.ViewModel\obj\Debug\netcoreapp3.1\Inventory.ViewModel.AssemblyInfoInputs.cache
+F:\Project\Inventory\BooksAuthor.ViewModel\obj\Debug\netcoreapp3.1\Inventory.ViewModel.AssemblyInfo.cs
+F:\Project\Inventory\BooksAuthor.ViewModel\obj\Debug\netcoreapp3.1\Inventory.ViewModel.csproj.CoreCompileInputs.cache
+F:\Project\Inventory\BooksAuthor.ViewModel\obj\Debug\netcoreapp3.1\Inventory.ViewModel.dll
+F:\Project\Inventory\BooksAuthor.ViewModel\obj\Debug\netcoreapp3.1\Inventory.ViewModel.pdb
+F:\Project\Inventory 1\Inventory.ViewModel\bin\Debug\netcoreapp3.1\Inventory.ViewModel.deps.json
+F:\Project\Inventory 1\Inventory.ViewModel\bin\Debug\netcoreapp3.1\Inventory.ViewModel.dll
+F:\Project\Inventory 1\Inventory.ViewModel\bin\Debug\netcoreapp3.1\Inventory.ViewModel.pdb
+F:\Project\Inventory 1\Inventory.ViewModel\obj\Debug\netcoreapp3.1\Inventory.ViewModel.csprojAssemblyReference.cache
+F:\Project\Inventory 1\Inventory.ViewModel\obj\Debug\netcoreapp3.1\Inventory.ViewModel.AssemblyInfoInputs.cache
+F:\Project\Inventory 1\Inventory.ViewModel\obj\Debug\netcoreapp3.1\Inventory.ViewModel.AssemblyInfo.cs
+F:\Project\Inventory 1\Inventory.ViewModel\obj\Debug\netcoreapp3.1\Inventory.ViewModel.csproj.CoreCompileInputs.cache
+F:\Project\Inventory 1\Inventory.ViewModel\obj\Debug\netcoreapp3.1\Inventory.ViewModel.dll
+F:\Project\Inventory 1\Inventory.ViewModel\obj\Debug\netcoreapp3.1\Inventory.ViewModel.pdb
+F:\Project\Inventory\Inventory.ViewModel\bin\Debug\netcoreapp3.1\Inventory.ViewModel.deps.json
+F:\Project\Inventory\Inventory.ViewModel\bin\Debug\netcoreapp3.1\Inventory.ViewModel.dll
+F:\Project\Inventory\Inventory.ViewModel\bin\Debug\netcoreapp3.1\Inventory.ViewModel.pdb
+F:\Project\Inventory\Inventory.ViewModel\obj\Debug\netcoreapp3.1\Inventory.ViewModel.csprojAssemblyReference.cache
+F:\Project\Inventory\Inventory.ViewModel\obj\Debug\netcoreapp3.1\Inventory.ViewModel.AssemblyInfoInputs.cache
+F:\Project\Inventory\Inventory.ViewModel\obj\Debug\netcoreapp3.1\Inventory.ViewModel.AssemblyInfo.cs
+F:\Project\Inventory\Inventory.ViewModel\obj\Debug\netcoreapp3.1\Inventory.ViewModel.csproj.CoreCompileInputs.cache
+F:\Project\Inventory\Inventory.ViewModel\obj\Debug\netcoreapp3.1\Inventory.ViewModel.dll
+F:\Project\Inventory\Inventory.ViewModel\obj\Debug\netcoreapp3.1\Inventory.ViewModel.pdb

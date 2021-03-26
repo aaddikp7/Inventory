@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Inventory.Entity\Inventory.Entity.csproj" />
+    <ProjectReference Include="..\Inventory.ViewModel\Inventory.ViewModel.csproj" />
+  </ItemGroup>
+
+</Project>
